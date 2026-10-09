@@ -1,5 +1,8 @@
 # GapFinder
 
+Live Demo 
+https://gap-finder.streamlit.app/
+
 **Evidence-driven commercialization gap detection.**
 
 GapFinder investigates a simple but difficult question: where does strong technological or market interest exist without a matching level of commercial supply?
